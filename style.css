@@ -1,0 +1,23 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+.form-group {
+    margin-bottom: 10px;
+}
+.btn {
+    background-color: #45af4c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+#output {
+    margin-top: 10px;
+    font-weight: bold;
+}
